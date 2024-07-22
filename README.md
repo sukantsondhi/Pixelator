@@ -1,1 +1,1 @@
-# Pixelator
+# The Pixelator
